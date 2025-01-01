@@ -1,6 +1,6 @@
 # Problem Solving
 
-This repository contains my solutions to problems from **LeetCode** and **HackerRank**, solved in multiple programming languages: **Python**, **JavaScript**, **TypeScript**, and **SQL**.
+This repository contains my solutions to problems from **LeetCode** and **HackerRank**, solved in multiple programming languages: **Python**, **C#**, **JavaScript**, **TypeScript**, and **SQL**.
 
 ## 📂 Folder Structure
 
