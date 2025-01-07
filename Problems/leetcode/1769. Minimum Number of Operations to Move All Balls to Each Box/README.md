@@ -1,9 +1,9 @@
-# 2381. Shifting Letters II
+# 1769. Minimum Number of Operations to Move All Balls to Each Box
 
 **Platform:** [LeetCode](https://leetcode.com)  
 **Difficulty:** Medium
-**Problem Link:** [2381. Shifting Letters II
-](https://leetcode.com/problems/shifting-letters-ii/description/?envType=daily-question&envId=2025-01-07)
+**Problem Link:** [1769. Minimum Number of Operations to Move All Balls to Each Box
+](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/?source=submission-ac)
 
 ## 📜 Description
 
