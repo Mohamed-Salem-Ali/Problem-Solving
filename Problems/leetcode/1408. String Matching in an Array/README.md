@@ -1,7 +1,7 @@
 # 1408. String Matching in an Array
 
 **Platform:** [LeetCode](https://leetcode.com)  
-**Difficulty:** Medium
+**Difficulty:** Easy
 **Problem Link:** [1408. String Matching in an Array
 ](https://leetcode.com/problems/string-matching-in-an-array/?envType=daily-question&envId=2025-01-10)
 

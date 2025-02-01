@@ -2,7 +2,9 @@
 
 ## Easy
 
-## Topics: Array, String, String Matching
+## Topics:
+
+Array, String, String Matching
 
 # Description:
 
@@ -35,3 +37,9 @@ Explanation: No string of words is substring of another string.
 1 <= words[i].length <= 30
 words[i] contains only lowercase English letters.
 All the strings of words are unique.
+
+## Hints
+
+### Hint 1
+
+Bruteforce to find if one string is substring of another or use KMP algorithm.

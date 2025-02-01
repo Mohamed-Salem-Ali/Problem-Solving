@@ -2,7 +2,7 @@
 
 **Platform:** [LeetCode](https://leetcode.com)  
 **Difficulty:** Medium  
-**Problem Link:** [1422. Maximum Score After Splitting a String
+**Problem Link:** [1930. Unique Length-3 Palindromic Subsequences
 ](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/?envType=daily-question&envId=2025-01-05)
 
 ## 📜 Description
